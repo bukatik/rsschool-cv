@@ -1,6 +1,6 @@
 # Ann Kalodzinskaya 
 
-![photo](/picture.jpg)
+![photo](picture.jpg)
 
 ## Contacts
 
