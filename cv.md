@@ -10,7 +10,7 @@
 
 * **Telegram:** @anyabukatik
 
-* **GitHub:** bukatik
+* **GitHub:** @bukatik
 
 ## Skills
 
