@@ -12,6 +12,9 @@
 
 * **GitHub:** @bukatik
 
+## About me
+I'm 26 years old and I'm an English tutor. I prefer English so much, because it's world-famous and it can't stop to develop and change. Learning new skills like coding can help me to reach new heights and expand my opportunities.
+
 ## Skills
 
 * **HTML (base)**
