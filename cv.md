@@ -4,39 +4,39 @@
 
 ## Contacts
 
-**Mobile phone:** +375 (33) 6614821
+* **Mobile phone:** +375 (33) 6614821
 
-**Email:** anyabukato@gmail.com
+* **Email:** anyabukato@gmail.com
 
-**Telegram:** @anyabukatik
+* **Telegram:** @anyabukatik
 
-**GitHub:** bukatik
+* **GitHub:** bukatik
 
 ## Skills
 
-**HTML (base)**
+* **HTML (base)**
 
-**CSS (base)**
+* **CSS (base)**
 
 ## Experience
 
-**CV project**
+* **CV project**
 
 ## Education
 
-**- 2015-2020**
+* **2015-2020**
 
 Minsk State Linguistic University
 
 Modern foreign languages
 
-Graduated as a Linguist, a Teacher of two foreign languages
+Graduated as a Linguist, a Teacher of two foreign languages (English, Spanish)
 
 ## Career
 
-* **2020-2021** Language school, position: teacher
-* **2021-2023** Language school, position: co-owner, teacher
 * **2023-now** Private English tutor
+* **2021-2023** Language school, position: co-owner, teacher
+* **2020-2021** Language school, position: teacher
 
 ## Languages
 
