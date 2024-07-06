@@ -1,7 +1,9 @@
 .photo {
    width: 150px;
    height: 190px;
+   border-radius: 5%;
 }
+
 body {
    background-color: rgba(239, 224, 224, 0.973);
    margin: 0;
