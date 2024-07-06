@@ -14,6 +14,7 @@ body {
    display: flex;
    flex-direction: row;
    justify-content: space-around;
+   flex-wrap: wrap;
    list-style: none;
    margin: 0;
 }
@@ -56,7 +57,9 @@ header, footer {
 
 .box {
    display: flex;
-   justify-content: center; 
+   flex-direction: row;
+   justify-content: center;
+   flex-wrap: wrap;
    gap: 20px;
 }
 
