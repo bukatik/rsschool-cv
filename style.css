@@ -25,6 +25,7 @@ body {
 
 header, footer {
    background-color: rgba(225, 207, 207, 0.879);
+   padding: 10px;
 }
 
 .footer-content {
@@ -94,5 +95,4 @@ td {
    align-items: center;
    justify-content: center;
    gap: 20px;
-   padding: 10px;
 }
