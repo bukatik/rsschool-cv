@@ -44,6 +44,7 @@ header, footer {
 .container {
    max-width: 1000px;
    padding: 20px; 
+   margin: auto;
 }
 
 .experience p {
